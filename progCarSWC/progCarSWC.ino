@@ -1,8 +1,8 @@
 // Sketch to keep mosfets on to program SWC on android car stereo
 
 // mosfet pins
-#define mosfetUp 11
-#define mosfetDn 12
+#define mosfetUp 6
+#define mosfetDn 8
 
 void setup() {
   // put your setup code here, to run once:
